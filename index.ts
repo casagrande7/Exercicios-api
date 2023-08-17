@@ -75,3 +75,4 @@ function retorna(a:number, b:number):string{
     return "Resultado da multiplicação: " +(a*b);
 }
 console.log(retorna(2,3));
+
